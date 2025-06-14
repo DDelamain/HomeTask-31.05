@@ -1,4 +1,6 @@
 ﻿#include <iostream>
+#include <time.h>
+#include <stdlib.h>
 using namespace std;
 const int Size = 10;
 int main() {
